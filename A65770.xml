@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Mr. Samuel White, to his brother in London, dated in Siam, Sept. 20, 1686 giving a full account of the late rebellion made by the people of Macasser, inhabiting in that country, which ended with the death of all the rebells, who were totally destroy'd by the kings forces assisted by some Europeans of several nations, amongst whom Capt. Henry Udall and some others of our countrymen most unhappily lost their lives.</title>
+            <author>White, Samuel, ca. 1650-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65770</idno>
+            <idno type="STC">Wing W1805</idno>
+            <idno type="STC">ESTC R33591</idno>
+            <idno type="EEBO-CITATION">13523996</idno>
+            <idno type="OCLC">ocm 13523996</idno>
+            <idno type="VID">99966</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99966)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1559:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Mr. Samuel White, to his brother in London, dated in Siam, Sept. 20, 1686 giving a full account of the late rebellion made by the people of Macasser, inhabiting in that country, which ended with the death of all the rebells, who were totally destroy'd by the kings forces assisted by some Europeans of several nations, amongst whom Capt. Henry Udall and some others of our countrymen most unhappily lost their lives.</title>
+                  <author>White, Samuel, ca. 1650-1689.</author>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hindmarsh ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thailand --  History --  To 1782.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:99966:1"/>
+            <pb n="1" facs="tcp:99966:1"/>
+            <head>A LETTER From Mr. <hi>Samuel White,</hi> to his Brother in <hi>LONDON,</hi> Dated in <hi>SIAM, Sept.</hi> 20. 1686.</head>
+            <argument>
+               <p>Giving a full Account of the <hi>Late Rebellion</hi> made by the People of <hi>Macaſſer,</hi> Inhabiting in that Country, which ended with the Death of all the Rebells, who were totally Deſtroy'd by the Kings Forces, Aſsiſted by ſome <hi>Europeans,</hi> of ſeveral Nations, amongſt whom Capt. <hi>Henry <g ref="char:V">Ʋ</g>dall,</hi> and ſome others of our Countrymen moſt Unhappily loſt their Lives.</p>
+            </argument>
+            <p>IN the paſt Month, when his Majeſty with the whole Court were retired to the <hi>Summer Pallace</hi> of the <hi>Levo;</hi> the <hi>Macaſſers</hi> (who you know are Seated below the <hi>Portugueze Camp</hi>) Conſpired to have burnt the City, Seized and Plundered the Pallace, Deſtroyed the King, and turned all Topſey-Turvy, had not the faint-heartedneſs of ſome few of the Conſpira<g ref="char:EOLhyphen"/>tors given vent to the Plot, about ſix hours before the deſigned time of their beginning to put it in Execution, which diſcovery, how late ſoever, came yet time enough to prevent the attempt for that time, the Vigilance of the Guards, rendring it unfeazeable; The King on notice hereof diſpatcht the Lord <hi>Phaul<g ref="char:EOLhyphen"/>kon</hi> (who is Lord Preſident of his Privy-Councell) from Court, to the Pal<g ref="char:EOLhyphen"/>lace of <hi>Siam,</hi> to examine and take cognizance of the matter, on whoſe arrival there, a Party to the number of about Two hundred ſurrender'd themſelves to the Kings Mercy, and were ſent up to <hi>Levo,</hi> where ſome of them were not<g ref="char:EOLhyphen"/>withſtanding found worthy of Death: another Party to the number of fifty headed by a deſigning and daring fellow, whom they had made their Cap<g ref="char:EOLhyphen"/>tain,
+<pb n="2" facs="tcp:99966:2" rendition="simple:additions"/>pretended to be wholly ignorant of the Plot and with all earneſtneſs, ſued for Liberty to depart the Kingdom, in a Veſſel of their own which was in a readineſs to tranſport them: To which, his Lordſhip, willing to have the Country ridd of ſuch dangerous Male-Contents, by any way rather than by effuſion of Blood, conſented, and gave them a Tarra to paſs the Forts at <hi>Bankoke;</hi> but after their Departure from hence, being Enformed the ſaid Captain was not ſo Innocent of the Plot as he had pretended, and Jelous that ſuch a Crew, Headed by ſuch a Deſperado, might do much Miſchief by Lurking in the Bay, and Surprizing the ſmall Veſſels that daily paſs to and fro, to the great prejudice of the Port; He inſtantly diſpatch'd an Expreſs to the Chief Governour of the Garriſon, one <hi>Monſieur Forbien,</hi> a <hi>Frenchman,</hi> and great Favourite of his Lordſhips, to En-order him, tho' not to ſtop the Veſſel, (yet if poſſible to be done without Bloodſhed) to detain the ſaid <hi>Macaſſer,</hi> Captain, Priſoner in the Fort. To this End <hi>Forbien,</hi> on the Landing of four or five of them, to ſhew their paſs before he would permit the opening of the Chain, ſent them on Board again, with an Invitation for their ſaid Captain to come on ſhore, who accor<g ref="char:EOLhyphen"/>dingly did, accompany'd with ſix others, and (whether through Ignorance or Overſight) were all of them permitted to Enter the Fort, Armed with Greaſes, where <hi>Forbien</hi> treated them very Civilly with <hi>Tea, &amp;c.</hi> for the ſpace of half an hour; but in the concluſion the <hi>Macaſſers</hi> offering to be gone, the <hi>French</hi> Governour, now too late, told the Captain he muſt Sur<g ref="char:EOLhyphen"/>render his Arms, which he replyed, <hi>he would not but with his Life;</hi> where<g ref="char:EOLhyphen"/>upon <hi>Forbien</hi> Commanding a <hi>Brazo Pintado,</hi> that ſtood by, to Diſarm him, he immediately drew his Creaſe and ript up the poor <hi>Siammer,</hi> after whoſe Example the reſt began their Muck, and fought very deſperately untill they were all kill'd upon the place, by the Sentrys and the help of Two Engliſhmen, at that time Priſoners in the Fort, having firſt ſlain ſeveral <hi>Siammers,</hi> and wounded a Young <hi>French</hi> Captain.</p>
+            <p>This firſt Bruſh being over, the Governour ſent to Summon the reſt of the <hi>Macaſſers</hi> on ſhore, having before-hand Ordered to be drawn up two Companies of <hi>Siam</hi> and <hi>Portugueze</hi> Soldiers, (Headed by Captain <hi>Minchin,</hi> and Captain <hi>Hues,</hi> lately come-in hither from <hi>Bombay</hi>) to receive them, whileſt himſelf ſecured the Fort with a Third Company; but they refuſing to Obey his Summons, he ſent to ſet Fire of their Veſſel, which was ac<g ref="char:EOLhyphen"/>cordingly done, and the <hi>Macaſſers</hi> then ſeeing themſelves forc'd to the ſhoar, and thinking to diſtract the Souldiers from too ſtrict an obſervance of them, immediatly on their Landing ſet fire to ſeveral Houſes, which gave them op<g ref="char:EOLhyphen"/>portunity to rally their Forces, then amounting to Forty three Perſons armed only with Creaſes in open face of the Fort, where they undauntedly confron<g ref="char:EOLhyphen"/>ted the whole ſtrength of the Garriſon, which Captain <hi>Hues</hi> not able to bear, too raſhly advanced againſt ſuch deſperate Fellows, and with ſix or ſeven <hi>Por<g ref="char:EOLhyphen"/>tugueſes</hi> that follow'd him, met their Deaths on the point of their Enemies Creaſes, having firſt laid dead an equal number of the <hi>Macaſſers, Minchin</hi> al<g ref="char:EOLhyphen"/>ſo very narrowly eſcap'd with Life, being deſerted by the unexperienced and Raw Souldiers under him, the Fort in the mean time not being able to ply their great Guns to do any Execution for fear of killing their own men; In
+<pb n="3" facs="tcp:99966:2"/>this skirmiſh fell alſo about Twenty ſix <hi>Siammers,</hi> all of them Creaſt: How<g ref="char:EOLhyphen"/>ever at length the <hi>Macaſſers</hi> fled, and being afterwards purſued and hunted from place to place, in Seaven or Eight days time they were all taken, and their fifty Heads ſtaked upon Poles at <hi>Bankoke,</hi> and it's not amiſs their eſcape to Sea was ſo opportunely prevented, for three days after this happen'd, ar<g ref="char:EOLhyphen"/>riv'd ſome Engliſhmen from <hi>Mergin,</hi> who knew nothing of this matter, yet affirmed, That in the Offing of this Barr, they ſaw Forty Sayl of <hi>Mallay</hi> Veſ<g ref="char:EOLhyphen"/>ſeis plying to <hi>Windward,</hi> whereas not one had gone out from hence, and there<g ref="char:EOLhyphen"/>fore it's ſuppoſed they had been Cruiſing on the Coaſt, to expect this ſaid Captain with an Account of their Succeſs on ſhoar, and that then the appoint<g ref="char:EOLhyphen"/>ed time being expired. and the time of Engliſh Shipping to arrive at hand doubtfull of a Diſcovery of the Plot a-ſhoar, they were returning homewards. A Third Party of theſe <hi>Macaſſers</hi> to the number of One Hundred or therea<g ref="char:EOLhyphen"/>bouts, with their Prince at the Head of them, ſtood upon their Defence in their own Camp, to whom the King after his return hither from <hi>Levo,</hi> was pleaſed to make a tender of Pardon, provided they would lay down their Arms, Tho' perhaps expecting by this his unlookt for Clemency, to arrive at the diſ<g ref="char:EOLhyphen"/>covery of all ſuch ill-affected <hi>Siammers,</hi> as poſſibly might have more then a fin<g ref="char:EOLhyphen"/>ger in this Conſpiracy, but this gracious ofter of his Majeſty had not the de<g ref="char:EOLhyphen"/>ſign'd effect; for about the 10th. of this month, the ſaid Prince attended by the whole Crew of deſperate Votaries, all arm'd with Creaſes and Launces, went to the Pallace Gate: whence he ſent word to his Majeſty, That in the ſenſe of his late Error, and reliance on his Royal word, he was come to ask his Majeſties Pardon, and promiſe a peaceable demeanour for the future; and to that end deſired admittance to throw himſelf at his Majeſties Feet, To which he was anſwered, That the Poſture he then was in, did not correſpond with his pretences, but if he would firſt ſurrender his Arms, and Command his Attendants to do the like, his Majeſty would rea<g ref="char:EOLhyphen"/>dily grant him liberty to come into his Preſence, and confirm the Pardon he had already on that condition offered them; whereupon the Prince perempto<g ref="char:EOLhyphen"/>rily replied, he would never be guilty of ſo baſe a Submiſſion as required the parting with their Arms; adding that he was not unſenſible of an approaching great Storm: <hi>But,</hi> ſays he, <hi>tell the King, I am like a Great Tree, well Rooted, and ſhall be able to endure any ordinary Shock; but if the Storm comes ſo Vio<g ref="char:EOLhyphen"/>lently on that I cannot longer ſtand it, he may be Aſſured my fall will not be with<g ref="char:EOLhyphen"/>out the ruine of much under wood; and ſince I cannot be ſuffered to ſpeak to the King with my Arms, if he has any further buſineſs with me, he knows where to find me at my own Houſe.</hi>
+            </p>
+            <p>All Reſentment of theſe daring Expreſſions was ſeemingly ſmother'd, and it was thought moſt convenient to lull him into Security, by ſuffering him for that time to depart without taking any further notice of it; tho' all poſſible Preparations were with great privacy made to reduce him by Force. And ac<g ref="char:EOLhyphen"/>cordingly the Lord <hi>Phaulkon</hi> in Perſon, accompanied with Sixty <hi>Europeans,</hi> having firſt in the Night blockt up the ſmall River, and ſo ſurrounded the <hi>Ma<g ref="char:EOLhyphen"/>caſſers</hi> Camp with about two Hundred of the Kings Galleys and Boats, that they could not poſſibly fly, on <hi>Tueſday</hi> the Fourteenth Inſtant at break of day gave Order for the Onſett, intending firſt to have fired down all the Houſes
+<pb n="4" facs="tcp:99966:3"/>before them, that ſo they might force theſe Skulking Enemies to an open Fight, who otherwiſe would have the opportunity of Murdering all that came near them, and yet keep themſelves unſeen: But alas! the Raſhneſs of ſome of the Chief <hi>Europeans</hi> hurried them on at once, to the breach of Orders and their own Deaths, and that without any damage to the Enemy; For Cap<g ref="char:EOLhyphen"/>tain <hi>Coates,</hi> and by his Example and Command, ſeveral others Landed before their time on a ſmall Spot of a dry point, where the <hi>Macaſſers,</hi> e're they could well look about them, ruſhing out of the Houſes diſpatcht one Mr. <hi>Alvey,</hi> newly arriv'd on the <hi>Herbert,</hi> and forced the reſt to take the Water again, in which haſty Retreat, Captain <hi>Coates</hi> with the weight of his own Ar<g ref="char:EOLhyphen"/>mour and Arms loſt his Life in the Water, the reſt with much danger and difficulty recovering their Boats. This ſad Prologue to the yet ſadder Trage<g ref="char:EOLhyphen"/>dy, a man would have thought warning enough for them to have proceeded afterwards with more diſcretion: but being for the moſt part of them men of more Reſolution then Conduct, and unacquainted with the way of fighting with ſuch an Enemy, and yet Emulous of ſhewing themſelves every man more Valiant then his Neighbour: About three hours afterwards having by burning that part of the Camp, and hot plying of the Guns out of the Gallies, put the Enemy to a Retreat two Miles higher, up the ſmall River, Captain <hi>Henry Udall</hi> (who in complement to his Lordſhip accompanied him to be only a Spectator) had not the Patience to continue any longer ſo; but, (notwithſtanding all his Lordſhips earneſt diſſwaſions from it) would needs leap aſhore, where he had not been long, with ſeveral other <hi>Engliſh</hi> in his Company, e're a parcell of <hi>Macaſſers,</hi> in diſguiſe of <hi>Siammers,</hi> by hawling a ſmall Boat along the Shoal-water, got ſo near them, un<g ref="char:EOLhyphen"/>diſcerned to be Enemies, as to reach them with their Launces, at which time it unluckily fell to Captain <hi>
+                  <g ref="char:V">Ʋ</g>dalls</hi> Lot to loſe his Life, the reſt very difficultly eſcaping by taking the Water, tho' thoſe <hi>Macaſſers</hi> eſcapt not the ſmall-ſhot from the Boats: Nor was his Lordſhip exemp<g ref="char:EOLhyphen"/>ted from as Eminent Danger as any man that came off with Life; For Captain <hi>
+                  <g ref="char:V">Ʋ</g>dall</hi>'s reſolute going a-ſhore had drawn him thither alſo, being loth to leave the Company of one he ſo much reſpected; but the Enemies Lances, (at which you know they are moſt expert) forced his Retreat, being glad for ſome time to hang on the off-ſide of his Boats Stern for ſhelter. You will not, (tho' many others I believe will) wonder the <hi>Europeans</hi> ſmall ſhot could not prevent their doing ſo much miſchief with only Lances and Creaſes, when you call to mind their deſperateneſs, who are a ſort of People that only value their Lives by the miſchief they can do at their Deaths; and regard no more to run up to the very Muzzle of a Blunderbuſs, then an <hi>Engliſhman</hi> would to hold his hand againſt a Boys Pop-Gun. There fell alſo four <hi>Frenchmen,</hi> among whom <hi>Monſieur de Roan</hi> was one: So that now at length other mens harder fates begun to make the reſt more Circumſpect; and con<g ref="char:EOLhyphen"/>tinuing to burn and lay all Levell before them, about Ten in the Fore<g ref="char:EOLhyphen"/>noon arrived them a Recruite of <hi>Siammers,</hi> (the whole number imployed by Land and Water being no leſs then Seaven or Eight Thouſand) with which they began to pick them off very briskly, I mean as faſt as they could
+<pb n="5" facs="tcp:99966:3"/>ſpy them Skulking in the Bambo's, Thickets, and other Buſhes, 'till at length the Prince himſelf was ſlain by the Captain of his Lordſhips Life-Guard, and about three a Clock the Fight ended; the <hi>Siammers</hi> after<g ref="char:EOLhyphen"/>wards only continuing to hem-in that place, to prevent the eſcape of any that might remain alive and attempt it. There was no Quarter given to a<g ref="char:EOLhyphen"/>ny <hi>Macaſſers</hi> in this days Fight, ſave only the Princes Son, a Boy of about Twelve Years, who after his Fathers fall came on undauntedly with his Lance preſented at his Lordſhip; but drawing within reach, and perceiving his Lordſhip ready in the like poſture to entertain him with his Lance, his Heart failed him, ſo that he caſt away his Weapons, and threw himſelf at his Lordſhips Feet, who received him with all Courteſy, and brought him unbound to his Majeſty. The next day what Men or Women remained, (for many of the latter were burnt in their Houſes with their Children) were taken Priſoners by the <hi>Siammers.</hi> And thus ends the Story of the <hi>Ma<g ref="char:EOLhyphen"/>caſſers</hi> with their Lives: But whether the Conſpiracy, wherein they were concerned, will end with them, is very much to be doubted.</p>
+            <closer>
+               <dateline>Licenſed <date>
+                     <hi>July</hi> 28. 1687.</date>
+               </dateline>
+               <signed>Ro. L' Eſtrange.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joſeph Hindmarſh,</hi> at the <hi>Golden-Ball,</hi> over againſt the <hi>Royall-Exchange</hi> in <hi>Cornhill,</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
